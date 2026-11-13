@@ -1,0 +1,6 @@
+/caltech-101/
+/caltech-101.zip
+/.venv/
+.ipynb_checkpoints/
+__pycache__/
+/S41_45_DL.ipynb
