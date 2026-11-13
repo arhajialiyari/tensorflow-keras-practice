@@ -23,4 +23,4 @@ The `caltech-101/` directory and `caltech-101.zip` are intentionally excluded. S
 
 ## Provenance and scope
 
-These notebooks document exercises associated with the Aghamohammadi deep learning course. Individual models and examples are educational implementations; the repository is not presented as original research. A separate CIFAR-10 CNN comparison based on one Colab experiment is being prepared with a corrected train/validation/test protocol.
+These notebooks document exercises associated with the Aghamohammadi deep learning course. Individual models and examples are educational implementations; the repository is not presented as original research. The [CIFAR-10 CNN Comparison](https://github.com/arhajialiyari/cifar10-cnn-comparison) repository contains a refactored version of one of the Colab exercises, with a separate validation split for model selection and the official test set reserved for final evaluation.
